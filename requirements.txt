@@ -1,0 +1,12 @@
+pickle
+pandas
+streamlit
+streamlit_authenticator
+os
+io
+datetime
+base64
+win32com.client
+Document
+DocxTemplate
+Path
